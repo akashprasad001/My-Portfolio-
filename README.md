@@ -4,7 +4,7 @@ A modern, responsive personal portfolio built to showcase my skills, projects, a
 
 🌐 **Live Portfolio:** [View Website](https://my-portfolio-sigma-livid-94.vercel.app)
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech CSE student specializing in AI & ML
 - 💻 Interested in web development and AI-powered applications
